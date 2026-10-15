@@ -28,7 +28,7 @@ export const products = [
     id: 3,
     name: "45W Fast Charging Dock",
     category: "Chargers",
-    price: 1790, // Replace with your selling price
+    price: 2790, // Replace with your selling price
     oldPrice: null,
     badge: "45W",
     description:
